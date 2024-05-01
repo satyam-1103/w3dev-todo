@@ -14,7 +14,7 @@ This project consists of a frontend and a backend application.
 1. Navigate to the root directory of the backend application.
 2. Build the Docker image using the following command:
    ```bash
-   docker build -t backend_image .
+   docker build -t backend .
    ```
 3. Once the image is built, run the Docker container:
 
